@@ -23,13 +23,13 @@ Some tasks included:
 
 Below are examples of SQL queries executed during the analysis.
 
-![BigQuery Query](bigquery_query_1.png)
-![BigQuery Query](bigquery_query_2.png)
-![BigQuery Query](bigquery_query_3.png)
+![BigQuery Query](queries/bigquery_query_1.png)
+![BigQuery Query](queries/bigquery_query_2.png)
+![BigQuery Query](queries/bigquery_query_3.png)
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard/dashboard.png)
 
 ## Tools Used
 
